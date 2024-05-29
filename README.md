@@ -6,7 +6,7 @@ with a GUI like Nibbler, CuteChess, Arena, etc.
 
 ## UCI Parameters
 
-Stash supports for now all these UCI options:
+tash supports for now all these UCI options:
 
   * #### Threads
     Sets the number of cores used for searching a position (defaults to 1).
